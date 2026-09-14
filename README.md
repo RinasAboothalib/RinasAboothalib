@@ -1,4 +1,4 @@
-# Hi there, I'm Rinas Aboothalib 👋
+# Hii, I'm Rinas Aboothalib 👋
 
 ### Aspiring Software & Ai Engineer | AI Enthusiast | IT Undergratuade
 
