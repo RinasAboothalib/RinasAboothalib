@@ -17,7 +17,7 @@ I enjoy turning ideas into practical projects, solving problems through code, an
 - 🔭 I'm working on academic and personal software projects.
 - 🧠 I'm exploring modern AI technologies and intelligent applications.
 - 🤝 I'm interested in collaborating on beginner-friendly and innovative projects.
-- 🎯 My goal is to become a skilled AI-focused Software Engineer.
+- 🎯 My goal is to become a skilled Ai Engineer.
 - 📚 I believe in continuous learning and practical development.
 
 ---
